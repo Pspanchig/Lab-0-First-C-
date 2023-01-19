@@ -1,0 +1,15 @@
+C:\Windows\System32\Lab-0-First-C-\bin\Debug\net6.0\Lab-0-First-C-.exe
+C:\Windows\System32\Lab-0-First-C-\bin\Debug\net6.0\Lab-0-First-C-.deps.json
+C:\Windows\System32\Lab-0-First-C-\bin\Debug\net6.0\Lab-0-First-C-.runtimeconfig.json
+C:\Windows\System32\Lab-0-First-C-\bin\Debug\net6.0\Lab-0-First-C-.dll
+C:\Windows\System32\Lab-0-First-C-\bin\Debug\net6.0\Lab-0-First-C-.pdb
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.csproj.AssemblyReference.cache
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.AssemblyInfoInputs.cache
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.AssemblyInfo.cs
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.csproj.CoreCompileInputs.cache
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.dll
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\refint\Lab-0-First-C-.dll
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.pdb
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\Lab-0-First-C-.genruntimeconfig.cache
+C:\Windows\System32\Lab-0-First-C-\obj\Debug\net6.0\ref\Lab-0-First-C-.dll
